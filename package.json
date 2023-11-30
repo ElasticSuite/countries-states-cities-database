@@ -1,0 +1,19 @@
+{
+  "name": "@elastic-internal/countries_states_cities_database",
+  "version": "2.0.0",
+  "description": "Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric codes as defined by the ISO 3166 standard, available in multiple formats, in multiple languages and with national flags included",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr5hn/wcountries-states-cities-database.git"
+  },
+  "keywords": [
+    "countries",
+    "states"
+  ],
+  "author": "Darshan Gada",
+  "license": "ODBL-1.0",
+  "bugs": {
+    "url": "https://github.com/dr5hn/countries-states-cities-database/issues"
+  },
+  "homepage": "https://github.com/dr5hn/countries-states-cities-database#readme"
+}
